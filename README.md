@@ -9,3 +9,5 @@ Using React hooks:
   - useContext - cart context to to easier have acces on items, total amount and functions to add and delete items in different places in app
   - useReducer - to manage state logic for cart (add, remove)
   - useRef
+
+For styling - CSS Modules
