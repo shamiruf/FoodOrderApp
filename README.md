@@ -1,5 +1,4 @@
 # FoodOrderApp
 Food Order App
 
-Add items to cart
-Delete items in cart
+Add and delete items in cart
